@@ -7,31 +7,31 @@
     },
     {
         "name": "India",
-        "flag": "🇮🇳",
+        "flag_image": "https://raw.githubusercontent.com/aravkaul/countries/ed1cada1944d5540aae830763459aef193168627/countrylogos/india.svg",
         "code": "IN",
         "dial_code": "+91"
     },
     {
         "name": "Israel",
-        "flag": "🇬🇧",
-        "code": "GB",
-        "dial_code": "+44"
+        "flag_image": "https://raw.githubusercontent.com/aravkaul/countries/ed1cada1944d5540aae830763459aef193168627/countrylogos/israel.svg",
+        "code": "ISR",
+        "dial_code": "+972"
     },
     {
         "name": "Russia",
-        "flag": "🇷🇺",
+        "flag_image": "https://raw.githubusercontent.com/aravkaul/countries/ed1cada1944d5540aae830763459aef193168627/countrylogos/russia.svg",
         "code": "RU",
         "dial_code": "+7"
     },
     {
         "name": "China",
-        "flag": "🇷🇺",
+        "flag_image": "https://raw.githubusercontent.com/aravkaul/countries/ed1cada1944d5540aae830763459aef193168627/countrylogos/china.svg",
         "code": "CN",
         "dial_code": "+86"
     },
     {
         "name": "United Arab Emirates",
-        "flag": "🇦🇪",
+        "flag_image": "🇦🇪",
         "code": "AE",
         "dial_code": "+971"
     }
