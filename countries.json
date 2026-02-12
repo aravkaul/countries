@@ -31,7 +31,7 @@
     },
     {
         "name": "United Arab Emirates",
-        "flag_image": "🇦🇪",
+        "flag_image": "https://raw.githubusercontent.com/aravkaul/countries/1fc09b202040c52710232f38a8cf35313d29bf8b/countrylogos/uae.svg",
         "code": "AE",
         "dial_code": "+971"
     }
