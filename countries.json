@@ -1,7 +1,7 @@
 [
     {
         "name": "United States",
-        "flag_image": "🇺🇸",
+        "flag_image": "https://raw.githubusercontent.com/aravkaul/countries/912ca66a106a04f79f14629e74df524a1d892da7/countrylogos/united_states.svg",
         "code": "US",
         "dial_code": "+1"
     },
@@ -10,6 +10,12 @@
         "flag": "🇮🇳",
         "code": "IN",
         "dial_code": "+91"
+    },
+    {
+        "name": "Israel",
+        "flag": "🇬🇧",
+        "code": "GB",
+        "dial_code": "+44"
     },
     {
         "name": "Russia",
@@ -28,11 +34,5 @@
         "flag": "🇦🇪",
         "code": "AE",
         "dial_code": "+971"
-    },
-    {
-        "name": "United Kingdom",
-        "flag": "🇬🇧",
-        "code": "GB",
-        "dial_code": "+44"
     }
 ]
